@@ -1,0 +1,14 @@
+{
+    "name": "ng-express-server",
+    "version": "1.0.0",
+    "description": "static server for angular app",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/masterfix/ng-express-server"
+    },
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.16.2"
+    }
+  }
+  
